@@ -104,6 +104,3 @@ O workflow em `.github/workflows/` roda o build com Maven a cada push, garantind
 - [Maria Eduarda Angeli](https://github.com/MariaEduardaAngeli)
 - Baseado no curso de Rodrigo de Sordi ([rodsordi](https://github.com/rodsordi))
 
----
-
-Feito com ☕ e muito estudo kawaii! (◕‿◕)★♪~
